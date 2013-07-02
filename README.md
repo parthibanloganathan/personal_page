@@ -1,4 +1,4 @@
-personal_page
-=============
+My Website
+==========
 
-Personal Page 2.0
+This is my redesigned website.
