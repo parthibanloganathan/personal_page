@@ -1,0 +1,27 @@
+h3
+{
+  text-align: center;
+}
+
+.thumbnail
+{
+  color: black;
+}
+
+.education
+{
+  overflow: hidden;
+  height: 570px;
+}
+
+.education_text
+{
+  position: relative;
+  top: -150px;
+  float: left;
+  overflow: hidden;
+  padding: 0 20px 0 20px;
+  text-align: center;
+  color: white;
+  background-color: rgba(0,0,0,0.7);
+}
