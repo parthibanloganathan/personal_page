@@ -1,0 +1,77 @@
+/* Legend */
+.legend
+{
+  width: 200px;
+  text-align: right;
+  font-size: 14px;
+}
+
+.skills ul, .skills li
+{
+  display: block;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.skills li
+{
+  float: right;
+  clear: both;
+  padding: 0 10px;
+  height: 35px;
+  line-height: 35px;
+  color: #FFFFFF;
+  margin-bottom: 2px;
+  font-size: 15px;
+}
+
+.skills .java
+{
+  background: #145D85;
+}
+
+.skills .android
+{
+  background: #00A6F2;
+}
+
+.skills .c
+{
+  color: #505759;
+  background: #C8CBCF;
+}
+
+.skills .web
+{
+  background: #D90E00;
+}
+
+.skills .ruby
+{
+  background: #870A00;
+}
+
+.skills .python
+{
+  background: #505759;
+}
+
+/* Chart */
+#diagram
+{
+  position: relative;
+  top: -40px;
+}
+
+.get
+{
+  display: none;
+}
+
+#diagram
+{
+  float: left;
+  width: 600px;
+  height: 600px;
+}

@@ -1,0 +1,178 @@
+/* Horizontal Navigation Bar */
+.inline li
+{
+  margin: 20px;
+}
+
+/* Rotate icons */
+.nav_wrapper:hover .nav_rotate_axis
+{
+  -webkit-transform:rotate(360deg);
+  -moz-transform:rotate(360deg);
+  -o-transform:rotate(360deg);
+  -ms-transform:rotate(360deg);
+  transform:rotate(360deg);
+}
+
+/* Change background color */
+.home:hover .nav_bg
+{
+  background: #EB0000;
+}
+
+.resume:hover .nav_bg
+{
+  background: #7203A6;
+}
+
+.code:hover .nav_bg
+{
+  background: #3D961D;
+}
+
+.blog:hover .nav_bg
+{
+  background: #F55E00;
+}
+
+.github:hover .nav_bg
+{
+  background: #1B5561;
+}
+
+.linkedin:hover .nav_bg
+{
+  background: #4875B4;
+}
+
+.email:hover .nav_bg
+{
+  background: #FFC000;
+}
+
+/* Change text color */
+.home:hover .nav_text
+{
+  color: #EB0000;
+}
+
+.resume:hover .nav_text
+{
+  color: #7203A6;
+}
+
+.code:hover .nav_text
+{
+  color: #3D961D;
+}
+
+.blog:hover .nav_text
+{
+  color: #F55E00;
+}
+
+.github:hover .nav_text
+{
+  color: #1B5561;
+}
+
+.linkedin:hover .nav_text
+{
+  color: #4875B4;
+}
+
+.email:hover .nav_text
+{
+  color: #FFC000;
+}
+
+/* Set transition effects */
+.nav_bg, .nav_rotate_axis, .nav_text
+{
+  -webkit-transition:all .5s ease-in-out;
+  -moz-transition:all .5s ease-in-out; 
+  -o-transition:all .5s ease-in-out; 
+  -ms-transition:all .5s ease-in-out;   
+  transition:all .5s ease-in-out;
+}
+
+/* Background */
+.nav_bg
+{
+  -webkit-border-radius: 999px;
+  -moz-border-radius: 999px;
+  border-radius: 999px;
+
+  behavior: url(PIE.htc);
+  width: 60px;
+  height: 60px;
+  background: black;
+}
+
+/* Rotation axis */
+.nav_rotate_axis
+{
+  position: relative;
+  top: 30px;
+}
+
+/* Icon */
+.nav_icon
+{
+  position: relative;
+  width: 1px;
+  height: 1px;
+  color: white;
+}
+
+/* Icon positions */
+.home .nav_icon
+{
+  top: -14px;
+  left: 16px;
+}
+
+.resume .nav_icon
+{
+  top: -15px;
+  left: 20px;
+}
+
+.code .nav_icon
+{
+  top: -14px;
+  left: 15px;
+}
+
+.blog .nav_icon
+{
+  top: -12px;
+  left: 16px;
+}
+
+.github .nav_icon
+{
+  top: -13px;
+  left: 17px;
+}
+
+.linkedin .nav_icon
+{
+  top: -14px;
+  left: 19px;
+}
+
+.email .nav_icon
+{
+  top: -14px;
+  left: 16px;
+}
+
+/* Text */
+.nav_text
+{
+  color: black;
+  position: relative;
+  top: 10px;
+  text-align: center;
+}

@@ -1,0 +1,15 @@
+.sidebar
+{
+  color: black;
+  float: left;
+}
+
+.sidebar a:hover
+{
+  color: blue;
+}
+
+.sidebar .title
+{
+  font-size: 100%;
+}

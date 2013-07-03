@@ -1,0 +1,11 @@
+    </div><!-- end of container -->
+
+    <!-- JavaScript -->
+    <script src="../js/jquery.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    {% for file in page.js %}
+    <script src="../js/{{ file }}"></script>
+    {% endfor %}
+  </body>
+
+</html>

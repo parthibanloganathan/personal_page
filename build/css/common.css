@@ -1,0 +1,28 @@
+/* Background */
+body
+{
+  background-image: url("../img/bg.png");
+} 
+
+/* Do not underline links */
+a
+{
+  text-decoration: none;
+}
+
+a:hover
+{
+  text-decoration: none;
+}
+
+/* Thumbnail improvements */
+.thumbnail
+{
+  background: white;
+  padding: 10px;
+}
+
+.thumbnail h4, h5
+{
+  text-align: center;
+}
