@@ -1,3 +1,30 @@
 {% include header.html %}
-{{ content }}
+      <div class="row">
+
+        <div class="span10 main">
+          <h3>{{ page.title }}</h3>
+          <h5>{{ page.date | date: "%d %B %Y" }}</h5>
+          {{ content }}
+        </div>
+
+        <div class="span2 sidebar">
+          <h4>Recent posts</h4>
+          <ul>
+            {% for post in site.posts limit: 10 %}
+            <li>
+            <a href="{{ post.url }}">
+              <span class="title">{{ post.title | truncatewords: 6 }}</span>
+            </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="row">
+        <div class="span12" style="position: relative; top: 20px;">
+          <a class="btn btn-inverse" href="/blog">Back to archive</a>
+        </div>
+      </div>
 {% include footer.html %}
