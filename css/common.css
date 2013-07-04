@@ -15,6 +15,10 @@ a:hover
   text-decoration: none;
 }
 
+/* Remove dashed box from clickable objects in Firefox */
+:focus {outline:none;}
+::-moz-focus-inner {border:0;}
+
 /* Thumbnail improvements */
 .thumbnail
 {
