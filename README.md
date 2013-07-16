@@ -1,4 +1,4 @@
-My Website
+Personal Page
 ==========
 
-This is my redesigned website.
+This is my redesigned personal website.
