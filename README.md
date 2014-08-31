@@ -1,4 +1,4 @@
 Personal Website
 ================
 
-This is my redesigned personal website.
+My personal website made with Jekyll.
