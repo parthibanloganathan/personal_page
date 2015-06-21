@@ -42,7 +42,12 @@
 
 .linkedin:hover .nav_bg
 {
-  background: #4875B4;
+  background: #0077B5;
+}
+
+.twitter:hover .nav_bg
+{
+  background: #55ACEE;
 }
 
 .email:hover .nav_bg
@@ -78,7 +83,12 @@
 
 .linkedin:hover .nav_text
 {
-  color: #4875B4;
+  color: #0077B5;
+}
+
+.twitter:hover .nav_text
+{
+  color: #55ACEE;
 }
 
 .email:hover .nav_text
@@ -161,6 +171,13 @@
   top: -14px;
   left: 19px;
 }
+
+.twitter .nav_icon
+{
+  top: -13px;
+  left: 18px;
+}
+
 
 .email .nav_icon
 {
