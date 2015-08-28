@@ -17,7 +17,8 @@ h3
 .education_text
 {
   position: relative;
-  top: -130px;
+  top: -110px;
+  width: 878px;
   float: left;
   overflow: hidden;
   padding: 0 20px 0 20px;
@@ -28,5 +29,10 @@ h3
 
 .job
 {
-  height: 450px;
+  height: 425px;
+}
+
+.activity
+{
+  height: 400px;
 }
