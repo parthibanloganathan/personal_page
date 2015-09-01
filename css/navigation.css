@@ -20,12 +20,12 @@
   background: #EB0000;
 }
 
-.resume:hover .nav_bg
+.work:hover .nav_bg
 {
   background: #7203A6;
 }
 
-.code:hover .nav_bg
+.projects:hover .nav_bg
 {
   background: #3D961D;
 }
@@ -61,12 +61,12 @@
   color: #EB0000;
 }
 
-.resume:hover .nav_text
+.work:hover .nav_text
 {
   color: #7203A6;
 }
 
-.code:hover .nav_text
+.projects:hover .nav_text
 {
   color: #3D961D;
 }
@@ -142,13 +142,13 @@
   left: 16px;
 }
 
-.resume .nav_icon
+.work .nav_icon
 {
   top: -15px;
   left: 20px;
 }
 
-.code .nav_icon
+.projects .nav_icon
 {
   top: -14px;
   left: 15px;
