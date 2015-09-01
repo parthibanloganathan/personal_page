@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/parthi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://parthibanloganathan.com
+  * I am parthi (https://keybase.io/parthi) on keybase.
+  * I have a public key with fingerprint D7E8 05D8 AB1A E8C8 0A86  2556 9F16 24FF D061 DABB
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.9"
+        },
+        "key": {
+            "fingerprint": "d7e805d8ab1ae8c80a8625569f1624ffd061dabb",
+            "host": "keybase.io",
+            "key_id": "9F1624FFD061DABB",
+            "uid": "830588eb65f02e2615a84b89cfc7a619",
+            "username": "parthi"
+        },
+        "merkle_root": {
+            "ctime": 1440960461,
+            "hash": "deeb0825d454566d122b7be8262abf169daf4ad977064a115d11aebb664e32c7a7baa4a6bed3dd4733c54a8a9a98a8df272f10c415d2c8b86a3ccf30a874ffa8",
+            "seqno": 284289
+        },
+        "service": {
+            "hostname": "parthibanloganathan.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1440960891,
+    "expire_in": 157680000,
+    "prev": "15264059a391479d7e3393678def9b8256f17271aeddec91249be0e1cfec13c7",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFVkm1oHEUYx++sTetpilBTwRcIWxrEJOfO7OzszInUxBBEIqSBQhHb67zt3aaX
+3XN3k+slnikGwbdSKS21+EKxwYpVQwVpkyJaPKHVWlSwLzQU09rSoB9EJKTNF2dD
+RDOfdnb+z3+e33+etxpXpDLpkZnPb5Si6lT6+1me2nxt08iIwQNZNXIjhih5yo+T
+L58NKCNn7FBVziKV9YJmP5Aq2x81L2najCEVRl7ga5WZdbLUqLUl8qTY9fyCCsuh
+l3gZ0lHEtCVhHDBFBDEZwdC2MXUBhsh1pYmBZJxry2IQxctuNRY9857Uf2l3ou/u
+7tL6ro7OTn02uHhALNMmRHFsuyZUEAObEcQJFa5wGAY0EUYqXEIqszAuekm3Ayrc
+UVL5MAgWkUXsJQKAkEmxiTDQ/bComBAoxU0CbYlsZGMsAYTc4YpADBnXFFQyFzFJ
+HcfEiAFgS6BROccYKQvqJhzOGGKYK2lJiRzLEjZihFFGCSPShQ50gSmQLoSCcIKZ
+JYRr6aAcnQ8jGiBSL/iBkYMEQUJryT4c8oRK+k5CW8bGmV8KCsxncZH5WREM6Ppy
+GMSBCEpaVIzjci7hj6vHy0lVRfH8kl+ee77Ur/f/5wVaujwbQnU2amfZC1XeSxS2
+g4mpV3KPGtKWwIYYmTZlFgXIoXoELIta2CFSuZTrKLELHOjolKRUggKIKFemAsJV
+AljC+Y8YWLpRVtCekVfQSIOhMmqvpR+6M5XOpBpW3pEMcCpz173/TvVT61enju3v
+eTz9+6b6+dFq9OrNnbtuNFUyrWP34cmn116ubwgfPvmGP9PXj1c92TnVWrt9pOnZ
+ristqj6mOuZmj/b+eHBvZUt24pGo/sHE6ekjPfL1/pmWNcOfvvTFsdGNX35ca3z+
+/bbhe/rO9V68vH7FHz+fqW2cGJzftqHBu7+wf+LgY81X31toWbg13fX2yo75v3q/
++Wj7h1sb7578bOxsDT1w4ULmzx+ut+86NHy6bfTdQHz1yaXKqc2z1YU9v+bmfhr/
++tE1T7Seq+xrePF20+rfjp99cPLaL+ueoyfNA1Pt4+Uz03/P3Tqxqv27YaDeWVdP
+T4dvfju+e+t85ZUDu/dUe/CpZ7LXbx7qfPnq4X8A
+=fofz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/parthi
+
+==================================================================
